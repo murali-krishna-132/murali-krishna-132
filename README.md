@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications and software development projects.<br><br>👯 I’m looking to collaborate on open-source projects, AI, and full-stack development.<br><br>🤝 I’m looking for help with system design, scalable architectures, and advanced AI engineering.<br><br>🌱 I’m currently learning modern AI frameworks, cloud technologies, and software engineering best practices.<br><br>💬 Ask me about Python, programming, AI, problem-solving, and developer tools.<br><br>⚡ Fun fact: I enjoy turning ideas into real projects and love learning something new every day.<br>```<br>
+🔭 I’m currently working on AI-powered applications and software development projects.<br><br>👯 I’m looking to collaborate on open-source projects, AI, and full-stack development.<br><br>🤝 I’m looking for help with system design, scalable architectures, and advanced AI engineering.<br><br>🌱 I’m currently learning modern AI frameworks, cloud technologies, and software engineering best practices.<br><br>💬 Ask me about Python, programming, AI, problem-solving, and developer tools.<br><br>⚡ Fun fact: I enjoy turning ideas into real projects and love learning something new every day.
 
 
 ## 🌐 Socials:
